@@ -1,0 +1,10 @@
+{
+  "triggerkeys": [
+    "Numpad0",
+    "LShift",
+    "RShift"
+  ],
+  "midi_port": "loopmidi1 1",
+  "togglemode": false,
+  "outputport": "loopmidi1 1"
+}
