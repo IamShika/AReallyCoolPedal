@@ -20,7 +20,7 @@ Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off â€
 
 ## ðŸ“¸ Guide ~
 
-![How to Start](
+![How to Start](Areallycoolpedal+-+Start.gif)
 
 ---
 
