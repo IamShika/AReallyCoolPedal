@@ -19,8 +19,13 @@ Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off â€
 ---
 
 ## ðŸ“¸ Guide ~
+note : gif colors might look a little bit weird xd
 
+- How to start
 ![How to Start](Areallycoolpedal+-+Start.gif)
+
+- Taskbar Indicator
+![TBIndicator](Areallycoolpedal+-+TrayIndicator.gif)
 
 ---
 
@@ -28,10 +33,10 @@ Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off â€
 
 ### For Running From exe :
 
-- just run it that's all.
+- just download form release and run it that's all.
 
 ### For Running From Source:
-
+- Download this repo as zip
 - Python 3.8+
 - `mido`
 - `python-rtmidi`
