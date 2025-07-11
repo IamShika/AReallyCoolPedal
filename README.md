@@ -48,9 +48,9 @@ pip install mido python-rtmidi pynput pystray pillow
 
 # 🙌 Credits
 Built using:
-• Mido
-• python-rtmidi
-• pynput
-• pystray
-• Pillow
+- Mido
+- python-rtmidi
+- pynput
+- pystray
+- Pillow
 
