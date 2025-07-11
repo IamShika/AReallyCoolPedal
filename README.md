@@ -22,10 +22,20 @@ Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off â€
 note : gif colors might look a little bit weird xd
 
 - How to start
+  
 ![How to Start](Areallycoolpedal+-+Start.gif)
 
 - Taskbar Indicator
-![TBIndicator](Areallycoolpedal+-+TrayIndicator.gif)
+  
+![TBIndicator](Areallycoolpedal+-+Tray+Indicator.gif)
+
+- Add Keys
+
+![Add Keys](Areallycoolpedal+-+Add+Keys.gif)
+
+- Remove Keys
+
+![Remove Keys](Areallycoolpedal+-+Remove+Keys.gif)
 
 ---
 
