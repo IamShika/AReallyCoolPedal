@@ -1,7 +1,7 @@
 # 🎹 MIDI Pedal Mapper
 
 Control your MIDI sustain pedal using your computer keyboard.  
-Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off — perfect for musicians who use digital pianos or DAWs and want hands-free control.
+Map keys like `Shift`, `Numpad0`, or `Alt` to toggle the sustain pedal on/off — perfect for musicians who use digital pianos or DAWs and want a shortcut control.
 You should install LoopMidi to route the midi signal to DAW too.
 
 # See gifs below for guide.
